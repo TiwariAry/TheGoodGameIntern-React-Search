@@ -1,8 +1,12 @@
-# React + Vite
+This project is made to display cards with their respective image and information; search functionality is also added to find the cards the user want.
+This project is made suing React JS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Here are a few pictures to display the web app.
 
-Currently, two official plugins are available:
+![Screenshot 2024-12-26 181010](https://github.com/user-attachments/assets/4e87a999-d555-4af7-b6ee-bd74a0274a1c)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Search functionality
+![Screenshot 2024-12-26 181040](https://github.com/user-attachments/assets/0ad2591e-20aa-4088-81df-14f5d0eb0d15)
+
+
+To run the project, clone the project and run 'npm install && npm run dev' in the terminal.
