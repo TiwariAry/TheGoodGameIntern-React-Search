@@ -3,7 +3,7 @@
 
 A clean, efficient search application built with **React** and **Vite** that provides real-time search functionality through local JSON data. Features a mobile-responsive design with vanilla CSS styling, demonstrating modern frontend development practices without external UI libraries.
 
-🌐 **Live App**: [SearchFunc]()
+🌐 **Live App**: [SearchFunc](https://thegoodgameintern-react-search.onrender.com)
 <br/>
 
 ![Screenshot 2024-12-26 181010](https://github.com/user-attachments/assets/4e87a999-d555-4af7-b6ee-bd74a0274a1c)
