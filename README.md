@@ -160,7 +160,8 @@ Contributions are welcome! To contribute:
 
 ## 📄 License
 
-
+This project is licensed under the [MIT License](https://github.com/TiwariAry/TheGoodGameIntern-React-Search/blob/main/LICENSE).  
+Feel free to fork, modify, and build on it.
 
 ---
 
